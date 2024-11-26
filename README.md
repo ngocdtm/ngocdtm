@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Đặng Thị Mỹ Ngọc</h1>
 <h3 align="center">A passionate fullstack developer from VietNam</h3>
-https://www.bing.com/images/search?q=animated%20coding%20gif&view=detailv2&FORM=IQFRBA&id=32E4D5B8DEF4D21131B4D2E49B5D08F67B5F0251&selectedindex=1&&expw=800&exph=600&ccid=4fNBO%2fUD&ck=1525C3024C1B097B8DC316B757E7A12C&thid=OIP.4fNBO_UDYEVxM0E5T2FyJQHaFj&idpp=serp&idpbck=1&ajaxhist=0&ajaxserp=0
 
 - 📫 How to reach me **ngocdtm.work@gmail.com**
 
