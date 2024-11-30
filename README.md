@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from VietNam</h3>
 
 - 📫 How to reach me **ngocdtm.work@gmail.com**
-- My CV: https://drive.google.com/file/d/1vsbJKN9kZleA4Ciwqhd9potyr0ekhpBf/view?usp=sharing
+- My Curriculum Vitae: https://drive.google.com/file/d/1vsbJKN9kZleA4Ciwqhd9potyr0ekhpBf/view?usp=sharing
 <p align="left">
 </p>
 
